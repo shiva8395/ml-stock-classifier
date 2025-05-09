@@ -25,14 +25,7 @@ This project builds a supervised ML model to predict whether AAPL stock will go 
 ![Feature Importance](importance_plot.png)
 
 ---
-
-## 💾 Files
-
-- `ml_stock_classifier.py` – training & evaluation script
-- `aapl.csv` – historical data (2024)
-- `importance_plot.png` – visual explanation
-- `README.md` – this file
-
+---
 ---
 
 ## 🧾 Author
