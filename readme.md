@@ -6,10 +6,13 @@ This project builds a supervised ML model to predict whether AAPL stock will go 
 
 ## 🧠 Features
 
-- `Sma_5` – 5-day Simple Moving Average
-- `Sma_10` – 10-day SMA
-- `Vol_10` – 10-day rolling volatility
-- `Signal` – 1 (BUY) if next day return > 0, else 0
+## 🚀 Features
+
+- 📈 Predicts BUY/SELL signals using a trained Random Forest Classifier
+- 📊 Uses historical stock data with technical indicators like returns and moving averages
+- 🧠 Includes train/test split with model evaluation (accuracy, confusion matrix)
+- 📦 Built with `pandas`, `scikit-learn`, and `matplotlib`
+- ✅ Clean, modular code structure ready for further enhancement or deployment
 
 ---
 
