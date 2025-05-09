@@ -1,4 +1,4 @@
-# 📈 AAPL Buy/Sell Signal Classifier using Random Forest
+ML Stock Classifier – Buy/Sell Predictor”
 
 This project builds a supervised ML model to predict whether AAPL stock will go **UP or DOWN** the next day using technical indicators.
 
